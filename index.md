@@ -1,7 +1,6 @@
 ---
 layout: index
 title: Litchi lee
-tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
