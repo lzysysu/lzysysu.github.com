@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: page
 title: Down To This
 tagline: You get the ankles and I'll get the wrists.
 ---
