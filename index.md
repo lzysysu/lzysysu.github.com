@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 关于我
+title: About Me
 tagline: 低头靠勇气，抬头靠实力。
 ---
 {% include JB/setup %}
