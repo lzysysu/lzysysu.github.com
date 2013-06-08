@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Down To This
-tagline: You get the ankles and I'll get the wrists.
+tagline: I believe i can fly.
 ---
 {% include JB/setup %}
 # Intros
