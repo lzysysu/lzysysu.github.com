@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Down To This
+title: About Me
 tagline: I believe i can fly.
 ---
 {% include JB/setup %}
