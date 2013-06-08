@@ -1,4 +1,3 @@
----
 layout: page
 title: About Me
 tagline: 低头靠勇气，抬头靠实力。
